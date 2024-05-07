@@ -12,7 +12,7 @@
     </nav>
     <h1>hello world head1    </h1>
     <h2>hello world head2    </h2>
-    <h3>hello world head1    </h3>
+    <h3>hello world head3    </h3>
     <h4 align="center">hello world head2    </h4>
     <h4 style="background-color:red">This is a heading</h4>
     <b>This text is bold</b>
@@ -25,7 +25,7 @@
     <img src="image/nexmakerlogo.jpg" width="160" height="160" />
     <hr/>
     <li><a href="http://ng.cba.mit.edu">A</a></li> 
-     <li><a href="https://www.linkedin.com/in/saveriosilli">B</a></li> 
+    <li><a href="https://www.linkedin.com/in/saveriosilli">B</a></li> 
     <li><a href="https://www.linkedin.com/in/ted-hung-abbb806/">C</a></li> 
     <li><a href="https://www.linkedin.com/in/thunder-zhang-3b4090b">D</a></li> 
     <li><a href="xujunnature@gmail.com">E</a></li> 
